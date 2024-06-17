@@ -1,1 +1,1 @@
-# Tokyo_Olympic_2021_Data_Analysis
+# Tokyo_Olympic_2021_Data_Modeling
